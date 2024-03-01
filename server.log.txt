@@ -1,0 +1,47 @@
+2022-10-29_10:48 =============================
+2022-10-29_10:48 =======Inicia Servidor=======
+2022-10-29_10:48 =============================
+2022-10-29_10:48 Socket creado. Puerto de escucha:5000
+2022-10-29_10:48 Conexion Aceptada.
+2022-10-29_10:48 El cliente solicito el calculo de: 95*/4
+2022-10-29_10:48 No se pudo realizar la operacion, la operacion esta mal formada: [*/4]
+2022-10-29_10:48 El cliente solicito el calculo de: 9+54
+2022-10-29_10:48 El resultado enviado es: 63
+2022-10-29_10:48 El cliente solicito el calculo de: *5
+2022-10-29_10:48 No se pudo realizar la operacion, la operacion esta mal formada: [*5]
+2022-10-29_10:48 El cliente solicito el calculo de: 5
+2022-10-29_10:48 El resultado enviado es: 5
+2022-10-29_10:48 El cliente solicito el calculo de: 9-20
+2022-10-29_10:48 El resultado enviado es: -11
+2022-10-29_10:48 El cliente solicito el calculo de: 11^3
+2022-10-29_10:48 El resultado enviado es: 1331
+2022-10-29_10:48 El cliente solicito el calculo de: 5!
+2022-10-29_10:48 El resultado enviado es: 120
+2022-10-29_10:48 El cliente solicito el calculo de: 10*5a50
+2022-10-29_10:48 No se pudo realizar la operacion, se encontro un caracter no contemplado: a
+2022-10-29_10:49 El cliente solicito el calculo de: 12!5
+2022-10-29_10:49 No se pudo realizar la operacion, la operacion esta mal formada: [2!5]
+2022-10-29_10:49 El cliente solicito el calculo de: !12
+2022-10-29_10:49 No se pudo realizar la operacion, la operacion esta mal formada: [!1]
+2022-10-29_10:49 El cliente solicito el calculo de: 
+2022-10-29_10:49 La operacion debe tener entre 1 y 20 caracteres
+2022-10-29_10:49 El cliente solicito el calculo de: 1234567890+9876543210
+2022-10-29_10:49 La operacion debe tener entre 1 y 20 caracteres
+2022-10-29_10:49 El cliente solicito el calculo de: 10/8
+2022-10-29_10:49 El resultado enviado es: 1
+2022-10-29_10:49 El cliente ha solicitado ver el archivo server.log
+2022-10-29_10:49 Conexion Cerrada por el cliente
+2022-10-29_10:49 Conexion Aceptada.
+2022-10-29_10:51 Conexion Cerrada por Inactividad.
+2022-10-29_10:53 Conexion Aceptada.
+2022-10-29_10:53 Conexion Cerrada por el cliente
+2022-10-29_17:13 =============================
+2022-10-29_17:13 =======Inicia Servidor=======
+2022-10-29_17:13 =============================
+2022-10-29_17:13 Socket creado. Puerto de escucha:5000
+2022-10-29_17:13 Conexion Aceptada.
+2022-10-29_17:13 El cliente solicito el calculo de: 40/3
+2022-10-29_17:13 El resultado enviado es: 13
+2022-10-29_17:14 El cliente solicito el calculo de: 3/2
+2022-10-29_17:14 El resultado enviado es: 1
+2022-10-29_17:14 Conexion Cerrada por Inactividad.
